@@ -1,9 +1,6 @@
 {
   "name": "gas-template",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "chikuwa111",
-  "license": "MIT",
+  "private": "true",
   "scripts": {
     "dev": "clasp open && clasp push --watch",
     "lint": "eslint .",
