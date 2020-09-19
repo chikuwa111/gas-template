@@ -1,1 +1,1 @@
-Logger.log('Hello Google Apps Script!');
+Logger.log("Hello Google Apps Script!");
